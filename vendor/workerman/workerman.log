@@ -1,0 +1,15 @@
+2016-05-23 16:28:20 Workerman[start.php] start in DEBUG mode
+2016-05-24 09:50:43 Workerman[start.php] start in DAEMON mode
+2016-05-24 09:55:55 Workerman[start.php] stop 
+2016-05-24 09:55:55 Workerman[start.php] is stoping ...
+2016-05-24 09:55:55 Workerman[start.php] stop success
+2016-05-24 09:56:00 Workerman[start.php] status 
+2016-05-24 09:56:00 Workerman[start.php] not run
+2016-05-24 09:56:09 Workerman[start.php] kill 
+2016-05-24 09:56:09 Workerman[start.php] not run
+2016-05-24 10:00:07 Workerman[start.php] start in DAEMON mode
+2016-05-24 10:00:43 Workerman[start.php] stop 
+2016-05-24 10:00:43 Workerman[start.php] is stoping ...
+2016-05-24 10:00:44 Workerman[start.php] stop success
+2016-05-24 10:00:46 Workerman[start.php] kill 
+2016-05-24 10:00:46 Workerman[start.php] not run
